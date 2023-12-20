@@ -10,7 +10,9 @@ Added functionalities as per the task:-
 
     php artisan migrate
     php artisan db:seed --class=DepartmentsTableSeeder
-    php artisan dev
+    npm install
+    npm run build
+    npm run dev
     php artisan serve
 
 Use these commands and use the URL http://127.0.0.1:8000 to the browser.
